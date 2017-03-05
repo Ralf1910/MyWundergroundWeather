@@ -1,0 +1,13 @@
+{
+"id": "{2BE5A448-42F7-486E-886C-03B61D9C8C6B}",
+  "name": "WundergroundWeather",
+  "type": 3,
+  "vendor": "",
+  "aliases": [
+    "WundergroundWeather"
+  ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "WGW"
+}
